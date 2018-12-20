@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:18:11-48
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:20:11-36
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:19:11-34
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+	android:targetSdkVersion
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:15-44
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-46
+		INJECTED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:26:5-89
+	android:required
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:26:64-87
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:26:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:29:22-71
+application
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:31:5-43:19
+	android:label
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:31:18-50
+	android:icon
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:32:18-54
+	android:theme
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:33:18-65
+activity#com.polkapolka.bluetooth.le.DeviceScanActivity
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:label
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:34:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.polkapolka.bluetooth.le.DeviceControlActivity
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:41:9-58
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:41:19-56
+service#com.polkapolka.bluetooth.le.BluetoothLeService
+ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:42:9-77
+	android:enabled
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:42:53-75
+	android:name
+		ADDED from G:\Android\AndroidStudioProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:42:18-52

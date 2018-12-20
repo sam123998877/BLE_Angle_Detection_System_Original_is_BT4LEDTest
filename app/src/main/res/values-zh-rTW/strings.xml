@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">角度偵測系統</string>
+    <string name="ble_not_supported">藍芽BLE不支援!</string>
+    <string name="label_data">角度:</string>
+    <string name="label_device_address">藍芽裝置位址:</string>
+    <string name="label_state">狀態:</string>
+    <string name="no_data">無資料</string>
+    <string name="connected">已連接</string>
+    <string name="disconnected">已中斷連接</string>
+    <string name="title_devices">掃描BLE裝置</string>
+    <string name="error_bluetooth_not_supported">不支援藍芽!</string>
+    <string name="unknown_device">未知的裝置</string>
+    <string name="unknown_characteristic">未知的特徵</string>
+    <string name="unknown_service">未知的服務</string>
+    <string name="menu_connect">連接</string>
+    <string name="menu_disconnect">中斷連接</string>
+    <string name="menu_scan">掃描</string>
+    <string name="menu_stop">停止</string>
+    <string name="is_serial">目前連接:</string>
+    <string name="button">發送</string>
+    <string name="red_slide">紅</string>
+    <string name="blue_slide">藍</string>
+    <string name="green_slide">綠</string>
+</resources>
